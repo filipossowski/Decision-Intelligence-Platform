@@ -1,2 +1,2 @@
-# Decision-Inteligence-Platform
+# Decision-Intelligence-Platform
 Python Multi-Criteria Data Analysis engine with sensitivity analysis
